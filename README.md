@@ -4,7 +4,7 @@
 <summary><h2>📑 Table of Contents</h2></summary>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [🤔 What is SuperchainERC20?](#-what-is-superchainerc20)
   - [`IERC7802`](#ierc7802)
